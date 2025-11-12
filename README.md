@@ -1,4 +1,4 @@
-# Welcome to your Sport Coach project
+# SportLens AI
 
 ## Project info
 

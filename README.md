@@ -403,5 +403,3 @@ This project is built with [Lovable](https://lovable.dev) and follows their term
 
 ---
 
-Made with ❤️ using [Lovable](https://lovable.dev)
-

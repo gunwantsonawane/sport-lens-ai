@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/f8f0e91c-cd5b-44cc-85bf-e3b4d1a3581a
+**URL**: https://sport-insight-wiz.lovable.app/
 
 ## How can I edit this code?
 
